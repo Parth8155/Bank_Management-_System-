@@ -1,7 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\asus\\OneDrive\\Pictures\\CE\\SEM-2\\JAVA-2\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
-}
